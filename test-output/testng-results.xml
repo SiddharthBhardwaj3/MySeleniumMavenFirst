@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Product entered in  Search Box :Mobile]]>
+    </line>
+    <line>
+      <![CDATA[Search Box Button Clicked.]]>
+    </line>
+    <line>
+      <![CDATA[Product Searched successfully:Mobile]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53393" started-at="2021-07-08T17:01:08 IST" finished-at="2021-07-08T17:02:01 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53393" started-at="2021-07-08T17:01:08 IST" finished-at="2021-07-08T17:02:01 IST">
+      <class name="product.amazon.tc.AmazonSearchTextBox">
+        <test-method status="PASS" signature="cartSearch()[pri:0, instance:product.amazon.tc.AmazonSearchTextBox@5a1c0542]" name="cartSearch" duration-ms="53329" started-at="2021-07-08T17:01:08 IST" finished-at="2021-07-08T17:02:01 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Product entered in  Search Box :Mobile]]>
+            </line>
+            <line>
+              <![CDATA[Search Box Button Clicked.]]>
+            </line>
+            <line>
+              <![CDATA[Product Searched successfully:Mobile]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cartSearch -->
+      </class> <!-- product.amazon.tc.AmazonSearchTextBox -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
